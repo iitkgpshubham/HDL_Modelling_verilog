@@ -3,3 +3,4 @@
 **Reference to design : **
 ![plot](./img/design.PNG)
 
+![plot](./img/img2.PNG)
